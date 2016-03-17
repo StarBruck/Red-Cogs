@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "StarBuck",
+    "DESCRIPTION" : "Usage: [p]shoot, shell, rpg <user>\n Basic warfare cog. Commands create ascii art that "attacks" other players..",
+    "DISABLED" : false,
+    "NAME" : "Weapons for use in server war."
+}
